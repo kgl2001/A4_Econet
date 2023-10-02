@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "A4EconetModule")(type "KiCad")(uri "${KIPRJMOD}/Econet_A4.kicad_sym")(options "")(descr "A4 Econet Module Library"))
+)

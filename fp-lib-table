@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connectors_UNITRA")(type "KiCad")(uri "${KIPRJMOD}/Connectors_UNITRA.pretty")(options "")(descr ""))
+  (lib (name "Connectors_RJ45")(type "KiCad")(uri "${KIPRJMOD}/Connectors_RJ45.pretty")(options "")(descr ""))
+  (lib (name "EconetClockV1")(type "KiCad")(uri "${KIPRJMOD}/EconetClockV1.pretty")(options "")(descr ""))
+  (lib (name "TO")(type "KiCad")(uri "${KIPRJMOD}/TO.pretty")(options "")(descr ""))
+  (lib (name "Capacitors")(type "KiCad")(uri "${KIPRJMOD}/Capacitors.pretty")(options "")(descr ""))
+  (lib (name "Connectors_misc")(type "KiCad")(uri "${KIPRJMOD}/Connectors_misc.pretty")(options "")(descr ""))
+  (lib (name "w_smd_dil")(type "KiCad")(uri "${KIPRJMOD}/w_smd_dil.pretty")(options "")(descr ""))
+  (lib (name "Econet_A4")(type "KiCad")(uri "${KIPRJMOD}/Econet_A4.pretty")(options "")(descr ""))
+)
